@@ -1,0 +1,13 @@
+{
+	"Doações": [
+		{"nome": "IDADE", "doação": "5€" },
+		{"nome": "IDADE", "doação": "10€"}
+	],
+
+	"Doações 2": [
+		{"nome": "IDADE", "doação": "2€" },
+		{"nome": "IDADE", "doação": "1€"}
+	]
+
+
+}
